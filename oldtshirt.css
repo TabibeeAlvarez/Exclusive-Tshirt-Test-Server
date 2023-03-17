@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: poppins;
+}
+
+main{
+    width: 100%;
+    height: 195vh;
+    background-image: linear-gradient(rgb(192, 192, 192), black);
+}
+
+.fa-hand-point-left{
+    font-size: 40px;
+    padding: 2%;
+    color: black;
+}
+
+/* PIC 1*/
+
+div .pic1{
+    background-color: white;
+    border: 2px solid black;
+    width: 30%;
+    height: 45vh;
+    margin-left: 3%;
+    margin-top: 5%;
+}
+
+div img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+p{
+    padding-left: 5%;
+}
+
+h2{
+    padding-left: 5%;
+}
+
+/* PIC 2*/
+
+div .pic2{
+    background-color: white;
+    border: 2px solid black;
+    width: 30%;
+    height: 45vh;
+    margin-left: 35%;
+    margin-top: -22.3%;
+}
+
+div .pic2 #second{
+    display: none;
+    margin-top: -20.2%;
+    position: absolute;
+    width: 24%;
+    margin-left: 3%;
+}
+
+#balik{
+    background-color: deepskyblue;
+    margin-top: -2%;
+}
+
+#balik:hover{
+    background-color: rgb(0, 124, 165);
+}
+
+button{
+    border: none;
+    text-align: center;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-left: 20%;
+    background: red;
+    color: white;
+    position: absolute;
+}
+
+button:hover{
+    background: rgb(161, 0, 0);
+}
+
+div img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+div .pic3{
+    background-color: white;
+    border: 2px solid black;
+    width: 30%;
+    height: 45vh;
+    margin-left: 68%;
+    margin-top: -22.3%;
+}
+
+div img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+div .pic4{
+    background-color: white;
+    border: 2px solid black;
+    width: 30%;
+    height: 45vh;
+    margin-left: 3%;
+    margin-top: 5%;
+}
+
+div img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+div .pic5{
+    background-color: white;
+    border: 2px solid black;
+    width: 30%;
+    height: 45vh;
+    margin-left: 35%;
+    margin-top: -22.3%;
+}
+
+div img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+div .pic6{
+    background-color: white;
+    border: 2px solid black;
+    width: 30%;
+    height: 45vh;
+    margin-left: 68%;
+    margin-top: -22.3%;
+}
+
+div img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+div .pic7{
+    background-color: white;
+    border: 2px solid black;
+    width: 30%;
+    height: 45vh;
+    margin-left: 3%;
+    margin-top: 5%;
+}
+
+div img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+div .pic8{
+    background-color: white;
+    border: 2px solid black;
+    width: 30%;
+    height: 45vh;
+    margin-left: 35%;
+    margin-top: -22.3%;
+}
+
+div img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+div .pic9{
+    background-color: white;
+    border: 2px solid black;
+    width: 30%;
+    height: 45vh;
+    margin-left: 68%;
+    margin-top: -22.3%;
+}
+
+div img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.allright{
+    color: white;
+    text-align: center;
+    margin-top: 4%;
+    font-size: 15px;
+}
